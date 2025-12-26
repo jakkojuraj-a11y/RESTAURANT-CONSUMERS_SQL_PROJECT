@@ -10,7 +10,7 @@ This project contains SQL scripts focused on data extraction, analysis, and repo
 | File Name | Description |
 |-----------|--------------|
 | `project.sql` | Main SQL script with queries, aggregations, and analysis |
-| `schema_reference.txt` | (Optional) Table structure or schema notes |
+| `schema_reference.txt` | Table structure or schema notes |
 | `README.md` | Documentation for understanding the project |
 
 ---
