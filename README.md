@@ -42,8 +42,3 @@ To run the SQL file, you can use:
 - Any SQL-supported environment
 
 ---
-
-## 👉 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
